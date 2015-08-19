@@ -11,5 +11,5 @@ package br.senai.entidade;
  * @author marcelo.horvath1
  */
 public class Pessoa {
-    
+    private String nome;
 }
